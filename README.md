@@ -7,4 +7,4 @@ Pod písečnými dunami se plíží obrovské písečné žížaly, které vním
 
 ## Část 2 Vizuál
 Planeta je sice celá pokryta pískem, ale je velmi vizuálně podivuhodná.
-Prostředím vyvolává pocit volnosti ale zároveň nejistoty
+Prostředím vyvolává pocit volnosti ale zároveň nejistoty. Celková atmosféra Arrakisu je taková tajemná a děsivá
