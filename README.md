@@ -9,7 +9,7 @@ Pod písečnými dunami se plíží obrovské písečné žížaly, které vním
 ### Klíčové hrozby na Arrakisu
 * **Písečný červ (Shai-Hulud):** Obří tvor chránící koření.
 * **Intriky impéria:** Politický boj o moc.
-* **Nehostinné klima:** ~Voda je tu drahocenná~ Voda je tu cennější než zlato.
+* **Nehostinné klima:** ~~Voda je tu drahocenná~~ Voda je tu cennější než zlato.
 
 ---
 
@@ -27,11 +27,11 @@ Zde je můj osobní checklist, co musíte stihnout, než si pustíte Dunu:
 ## Část 3 Zázemí projektu a užitečné odkazy
 Pokud vás svět Duna zajímá hlouběji, doporučuji navštívit [oficiální stránky filmu Duna](https://www.dunemovie.com) nebo si přečíst podrobné informace na [Wikipedii o Arrakisu](https://cs.wikipedia.org/wiki/Arrakis).
 
-### Ukázka atmosféry (Ilustrace)
+### Ukázka atmosféry
 Zde je ukázka vizuálního zpracování planety uložená přímo v repozitáři:
 ![Pustá krajina Arrakisu](images/arrakis-landscape.jpg)
 
-### Technické pozadí aneb výpočet vzdáleností ve vesmíru
+### Technické pozadí - výpočet vzdáleností ve vesmíru
 Pro představu, jak funguje navigace pomocí koření, si můžeme ukázat jednoduchý Python skript na výpočet skoků:
 
 ```python
